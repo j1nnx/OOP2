@@ -1,4 +1,4 @@
-public class Car extends Transport{
+public class Car extends Transport implements mashines{
 
 
     public Car(String modelName, int wheelsCount){
